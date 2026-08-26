@@ -3,6 +3,3 @@
 Course: Web & Multimedia Development
 Environment: Windows 11 (Git Bash)
 
-## Student: Your Name
-Course: Web & Multimedia Development
-Environment: Windows 11 (Git Bash)
